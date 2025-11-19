@@ -1,0 +1,2 @@
+Este é um arquivo de exemplo para testar o algoritmo de Huffman.
+Pode ser alterado à vontade para os testes da apresentação.
